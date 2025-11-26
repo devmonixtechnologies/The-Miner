@@ -417,9 +417,9 @@ copies or substantial portions of the Software.
 **🏭 Production Ready**
 
 ### 📧 **Contact Us**
-- **Website**: [devmonix.com](https://devmonix.io)
+- **Website**: [devmonix.io](https://devmonix.io)
 - **Email**: sales@devmonix.io
-- **GitHub**: [@devmonix](https://github.com/devmonixtechnologies)
+- **GitHub**: [@devmonixtechnologies](https://github.com/devmonixtechnologies)
 
 ---
 
