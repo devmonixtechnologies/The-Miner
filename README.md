@@ -191,7 +191,7 @@ python main.py --config config/user.conf
 ### **MetaMask & Blockchain Setup**
 
 1. **🔑 Get Etherscan API Key**: Register at [https://etherscan.io/apis](https://etherscan.io/apis)
-2. **⚙️ Update Configuration**: Add your API key to `config/default.conf`
+2. **⚙️ Update Configuration**: Add your API key to `config/default.conf` or by using the the mining menu
 3. **🌐 Optional**: Add Infura Project ID for enhanced connectivity
 
 ```ini
@@ -368,7 +368,7 @@ garbage_collection = aggressive
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions from the community!
 
 ### **🐛 Bug Reports**
 - Open an issue on GitHub with detailed description
@@ -379,20 +379,6 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 - Open an issue with "Feature Request" label
 - Describe the feature and its use case
 - Consider implementation suggestions
-
----
-
-## 📞 Support
-
-### **📚 Documentation**
-- **User Guide**: [docs/USER_GUIDE.md](docs/USER_GUIDE.md)
-- **API Reference**: [docs/API_REFERENCE.md](docs/API_REFERENCE.md)
-- **Troubleshooting**: [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)
-
-### **🏢 Enterprise Support**
-- **Email**: support@devmonix.com
-- **Discord**: [Join our Discord](https://discord.gg/devmonix)
-- **Documentation**: [docs.devmonix.com](https://docs.devmonix.com)
 
 ---
 
@@ -431,9 +417,9 @@ copies or substantial portions of the Software.
 **🏭 Production Ready**
 
 ### 📧 **Contact Us**
-- **Website**: [devmonix.com](https://devmonix.com)
-- **Email**: info@devmonix.com
-- **GitHub**: [@devmonix](https://github.com/devmonix)
+- **Website**: [devmonix.com](https://devmonix.io)
+- **Email**: sales@devmonix.io
+- **GitHub**: [@devmonix](https://github.com/devmonixtechnologies)
 
 ---
 
